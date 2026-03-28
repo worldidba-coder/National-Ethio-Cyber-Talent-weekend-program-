@@ -116,3 +116,6 @@ DNS → data exfiltration via queries
 TCP → streams reconstruct full conversations
 Encoding → common obfuscation method
 ICMP → covert channel for hidden data
+
+
+
